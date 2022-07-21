@@ -46,7 +46,7 @@ const renderPokemon = async (pokemon) => {
 
  }
  
- console.log(data)
+
 }
 
 form.addEventListener('submit', (e) => {
