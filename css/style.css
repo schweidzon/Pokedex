@@ -21,10 +21,7 @@ main {
     
 }
 
-.pokedex {
-       
-    
-}
+
 
 .pokemon_image {
     position: absolute;
@@ -54,7 +51,7 @@ main {
 
 .form {
     position: absolute;
-    left: 7%;
+    left: 9%;
     bottom: 11%;
     
    
@@ -97,10 +94,9 @@ main {
 
 
 .buttons {
-    position: absolute;
-    background-color: red;
+    position: absolute;    
     display: flex;
-    gap: 17px;
+    gap: 5px;
     right: 25%;
     bottom: 11%;
 
